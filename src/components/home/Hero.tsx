@@ -26,10 +26,9 @@ const Hero: React.FC = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
         >
-          <h2 className="text-white font-serif text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
+          <h2 className="text-white/90 font-serif text-6xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
             Experience the Luxury
             <br />
-            <span className="text-brown">One Sample at a Time</span>
           </h2>
           <p className="text-white text-lg md:text-xl mb-8 max-w-md">
             Discover the exquisite world of Louis Vuitton fragrances through our

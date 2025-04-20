@@ -32,7 +32,7 @@ const Header: React.FC = () => {
       className={`fixed w-full z-50 transition-all duration-300 ${headerClass}`}
     >
       <div className="container mx-auto px-4 py-4">
-        <div className="flex items-center justify-between">
+        <div className="flex w-full items-center justify-between">
           <Link to="/" className="flex items-center w-60">
             <img
               src="/chrislogo2.svg"

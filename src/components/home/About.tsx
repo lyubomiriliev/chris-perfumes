@@ -115,12 +115,10 @@ const About: React.FC = () => {
           >
             <div className="relative">
               <img
-                src="https://images.pexels.com/photos/965990/pexels-photo-965990.jpeg"
+                src="/lvBG3.webp"
                 alt="Luxury perfume samples"
                 className="w-full h-auto rounded-lg shadow-lg"
               />
-              <div className="absolute -bottom-8 -left-8 w-48 h-48 bg-gold/10 rounded-lg hidden lg:block"></div>
-              <div className="absolute -top-8 -right-8 w-48 h-48 bg-gold/10 rounded-lg hidden lg:block"></div>
             </div>
           </motion.div>
         </div>

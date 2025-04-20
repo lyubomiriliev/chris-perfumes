@@ -33,10 +33,10 @@ const Header: React.FC = () => {
     >
       <div className="container mx-auto px-4 py-4">
         <div className="flex w-full items-center justify-between">
-          <Link to="/" className="flex items-center w-60">
+          <Link to="/" className="flex items-center">
             <img
               src="/chrisFinal.svg"
-              className="w-48 object-cover"
+              className="w-52 object-cover"
               alt="ChrisLogo"
             />
             {/* <h1 className="font-serif text-2xl font-bold tracking-wider text-brown">

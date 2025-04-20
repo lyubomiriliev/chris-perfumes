@@ -36,7 +36,7 @@ const Header: React.FC = () => {
           <Link to="/" className="flex items-center w-60">
             <img
               src="/chrisFinal.svg"
-              className="w-full object-cover"
+              className="w-48 object-cover"
               alt="ChrisLogo"
             />
             {/* <h1 className="font-serif text-2xl font-bold tracking-wider text-brown">
